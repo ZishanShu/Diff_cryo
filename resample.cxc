@@ -1,0 +1,4 @@
+open /gpfs/share/home/2201111701/szs/szs1/Cryo2Struct/input/34610/emd_34610.map
+vol resample #1 spacing 1.0 
+save /gpfs/share/home/2201111701/szs/szs1/Cryo2Struct/input/34610/emd_resampled_map.mrc model #2 
+exit
